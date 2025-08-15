@@ -1,2 +1,2 @@
 This is the second file in the exercise 9A repo.
-This second line will contain a conflict for 2222
+This second contains a resolved conflict for both 1111 and 2222.
